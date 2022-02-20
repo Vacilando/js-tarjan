@@ -13,4 +13,6 @@ This JavaScript implementation of Tarjan's algorithm is based on the [PHP versio
 
 ## More information and live demo
 
+See a [demo at CodePen](https://codepen.io/vacilando-the-animator/pen/eYeyyRm).
+
 [https://www.vacilando.org/article/javascript-implementation-tarjans-cycle-detection-algorithm](https://www.vacilando.org/article/javascript-implementation-tarjans-cycle-detection-algorithm)
